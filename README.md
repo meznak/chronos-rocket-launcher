@@ -1,7 +1,10 @@
 chronos-rocket-launcher
 =======================
 
-Module for [openchronos-ng](http://openchronos-ng.sourceforge.net/) which launches rockets from a TI Chronos watch
+Launches rockets from a TI Chronos watch
+
+
+Watch portion requires [openchronos-ng](http://openchronos-ng.sourceforge.net/)
 
 To use, clone and link rocket.* into openchronos-ng/module 
 
